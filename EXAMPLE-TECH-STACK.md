@@ -1,0 +1,23 @@
+- TanStack Start
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Node.js
+- Supabase Auth
+- Supabase Postgres
+- Drizzle ORM
+- Supabase Storage
+- Stripe Payments
+- Google Maps Platform (Places + Geocoding) or Mapbox
+- SendGrid (transactional email)
+- Sentry
+- OpenTelemetry
+- Pino (structured logging)
+- Helmet (security headers)
+- Zod (schema validation)
+- i18next
+- Playwright
+- Docker
+- GitHub Actions
+- Vercel
