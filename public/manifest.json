@@ -1,11 +1,11 @@
 {
-  "name": "Your Brand",
-  "short_name": "Brand",
-  "description": "Your site description",
+  "name": "Quick Read",
+  "short_name": "QRead",
+  "description": "Speed read any text with RSVP",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0a0a0b",
-  "background_color": "#0a0a0b",
+  "theme_color": "#1a1918",
+  "background_color": "#1a1918",
   "icons": [
     {
       "src": "/meta-media/manifest-icon-192.png",

@@ -1,6 +1,6 @@
-# robots.txt for Your Brand
+# robots.txt for Quick Read
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://www.qreader.xyz/sitemap.xml
